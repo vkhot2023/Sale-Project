@@ -21,7 +21,7 @@ client has plan to expand and stramline current process to obtain optimal succes
 
 ## Data Exploration and Processing
 
-client Provide Excel workbook with 2 sheets namely sales and Records. Data ranhe from 1 JANUARY 2021 TO 31 MARCH 2021!
+client Provide Excel workbook with 2 sheets namely sales and Records. Data range from 1 JANUARY 2021 TO 31 MARCH 2021!
 
 Sales Sheet:2037 records  Data Points:Salesperson, Geography, Product,  Date,  Amount,  Customers, Boxes
 
