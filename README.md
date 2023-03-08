@@ -2,7 +2,7 @@
 PARLE INDUSTRIES IS GLOBAL LEADER IN MANUFACTURE OF VARIOUS SNACKS. In India, Firm planning internal restucturing to access production and sales performance. During this restructuring, Team wish to analyse till date performace to get overview of firm performace to help in plan for further expansion. In this project we will analyse sales records to provide best possible consulting advise to client.
 
 # Dataset
-link: 
+Link: https://github.com/vkhot2023/Sale-Project/blob/main/row%20data%20of%20powerbi%20sale%20project.xlsx
 
 # Development Process
 In this project, we are carrying following steps:
@@ -37,17 +37,17 @@ Data parsed in Microsoft PowerBI for Model development. Model developes in such 
 
 Sales Performace Dashboard screenshot :
 
-![Capture1](https://user-images.githubusercontent.com/115641570/223627440-3dda2764-0c1c-40e3-a0e1-b3aafc04e31b.PNG)
+<img src="https://user-images.githubusercontent.com/115641570/223627440-3dda2764-0c1c-40e3-a0e1-b3aafc04e31b.PNG" height="500" width="1000" />
 
 SalesPersons Performance Dashboard screenshot:
 
-![Capture2](https://user-images.githubusercontent.com/115641570/223627628-84371ac3-8466-4de1-b856-41c03d377622.PNG)
+<img src="https://user-images.githubusercontent.com/115641570/223627628-84371ac3-8466-4de1-b856-41c03d377622.PNG" height="500" width="1000" />
 
 Detail Project Report screenshot:
 
-![Capture3](https://user-images.githubusercontent.com/115641570/223627735-e7cd9457-a8d1-429e-ba68-5d4472fc2038.PNG)
+<img src="https://user-images.githubusercontent.com/115641570/223627735-e7cd9457-a8d1-429e-ba68-5d4472fc2038.PNG" height="500" width="1000" />
 
-For detail Project:
+For detail Project:https://github.com/vkhot2023/Sale-Project/blob/main/UPLOAD%20powerbi%20sales.pbix
 
 ## Data Analysis and Insights
 
@@ -57,13 +57,17 @@ we analyze data to obtain following results:
 
 <img src="https://user-images.githubusercontent.com/115641570/223639910-9be99b41-1a6b-4aa7-a0be-e872e3601d48.PNG" height="300" width="800" />
 
-More details Report:
+More details Report:https://github.com/vkhot2023/Sale-Project/blob/main/sale%20powerbi.docx
 
-## PowerBI Project:
+PPT:https://github.com/vkhot2023/Sale-Project/blob/main/Data%20Analysis.pdf
 
-Link: https://github.com/vkhot2023/TATA/blob/main/upload%20TATA%20powerbi.pbix
+## Reports:
 
-Link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+Microsoft PowerBI Link: https://github.com/vkhot2023/Sale-Project/blob/main/UPLOAD%20powerbi%20sales.pbix
+
+PPT Link:https://github.com/vkhot2023/Sale-Project/blob/main/Data%20Analysis.pdf
+
+Detail Report:https://github.com/vkhot2023/Sale-Project/blob/main/sale%20powerbi.docx
 
 ## Project completion
 
