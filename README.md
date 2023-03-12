@@ -3,6 +3,7 @@ PARLE INDUSTRIES IS A GLOBAL LEADER IN THE MANUFACTURE OF VARIOUS SNACKS. In Ind
 During this restructuring, the Team aspires to analyze to-date performance to get an overview of the sale performance. This Overview will help Team in a plan for further expansion. In this project, we will analyze sales records to provide the best possible consulting advise to a client.
 
 ## Dataset
+
 Raw Dataset: https://github.com/vkhot2023/Sale-Project/blob/main/row%20data%20of%20powerbi%20sale%20project.xlsx
 
 ## Development Process
