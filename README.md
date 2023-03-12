@@ -1,39 +1,41 @@
 # Sales Project
-PARLE INDUSTRIES IS GLOBAL LEADER IN MANUFACTURE OF VARIOUS SNACKS. In India, Firm planning internal restucturing to access production and sales performance. During this restructuring, Team wish to analyse till date performace to get overview of firm performace to help in plan for further expansion. In this project we will analyse sales records to provide best possible consulting advise to client.
+PARLE INDUSTRIES IS A GLOBAL LEADER IN THE MANUFACTURE OF VARIOUS SNACKS. In India,The Firm is planning to perform internal restructuring to assess production and sales performance.
+During this restructuring, the Team aspires to analyze to-date performance to get an overview of the sale performance. This Overview will help Team in a plan for further expansion. In this project, we will analyze sales records to provide the best possible consulting advise to a client.
 
-# Dataset
-Link: https://github.com/vkhot2023/Sale-Project/blob/main/row%20data%20of%20powerbi%20sale%20project.xlsx
+## Dataset
+Raw Dataset: https://github.com/vkhot2023/Sale-Project/blob/main/row%20data%20of%20powerbi%20sale%20project.xlsx
 
-# Development Process
-In this project, we are carrying following steps:
+## Development Process
+We are functioning following 4 steps to complete this project:
 
-1 Project Statement
-
-2 Data Exploration and Processing
-
-3 DashBoard and Model Generation
-
-4 Data Analysis and Insights
+* Project statement
+* Data Exploration
+* Dashboard Development
+* Data Analysis
 
 ## Project statement
 
-client has plan to expand and stramline current process to obtain optimal success for firm. client choose us for consulting process. In this project, we will extract their sales data and analyse it to provide best possible solution of their Problem
+In this process, we are defining the Project Problem statement and what will consider successful completion of the project?
 
-## Data Exploration and Processing
+A client has the plan to expand and streamline the current process to obtain optimal success for the firm. Client aspire to analyze their past sale data to assist them in plan formation and implementation. The client appoints us for consulting process. In this project, we will extract their sales data and analyze it to provide the best possible solution to their Problem.
 
-client Provide Excel workbook with 2 sheets namely sales and Records. Data range from 1 JANUARY 2021 TO 31 MARCH 2021!
+The project will consider complete when client requirements are satisfied.
 
-Sales Sheet:2037 records  Data Points:Salesperson, Geography, Product,  Date,  Amount,  Customers, Boxes
+## Data Exploration 
+
+Client Provide an Excel workbook with 2 sheets: sales and Records. Data range from 1 JANUARY 2021 TO 31 MARCH 2021.
+
+Sales Sheet:2037 records  Data Points: Salesperson, Geography, Product,  Date,  Amount,  Customers, Boxes.
 
 Records Sheet:3 Table 
 
-Table 1:22 records  Data Points:Product, Category, Cost per box
-Table 2:6  records  Data Points:Geo, Region
-Table 3:20 records  Data Points:Salesperson, Team
+Table 1:22 records  Data Points: Product, Category, Cost per box.
+Table 2:6  records  Data Points: Geo, Region.
+Table 3:20 records  Data Points: Salesperson, Team.
 
-## DashBoard and Model Generation
+## DashBoard Development
 
-Data parsed in Microsoft PowerBI for Model development. Model developes in such way that each data point has data consistency and relationship with respect to selected data ponit to provide User Required data insights. we developed User friendly Dynamic Dashboard using Microsoft PowerBI tool to check various parameters.
+Data parsed in Microsoft PowerBI for Model development. The model develops in such a way that each data point has data consistency,and data relationship remains intact. We developed User-friendly Dynamic Dashboard using the Microsoft PowerBI tool to check various parameters.
 
 Sales Performace Dashboard screenshot :
 
@@ -57,20 +59,18 @@ we analyze data to obtain following results:
 
 <img src="https://user-images.githubusercontent.com/115641570/223639910-9be99b41-1a6b-4aa7-a0be-e872e3601d48.PNG" height="300" width="800" />
 
-More details Report:https://github.com/vkhot2023/Sale-Project/blob/main/sale%20powerbi.docx
-
-PPT:https://github.com/vkhot2023/Sale-Project/blob/main/Data%20Analysis.pdf
+Report:https://github.com/vkhot2023/Sale-Project/blob/main/sale%20powerbi.docx
 
 ## Reports:
 
 Microsoft PowerBI Link: https://github.com/vkhot2023/Sale-Project/blob/main/UPLOAD%20powerbi%20sales.pbix
 
-PPT Link:https://github.com/vkhot2023/Sale-Project/blob/main/Data%20Analysis.pdf
+PDF Link:https://github.com/vkhot2023/Sale-Project/blob/main/Data%20Analysis.pdf
 
 Detail Report:https://github.com/vkhot2023/Sale-Project/blob/main/sale%20powerbi.docx
 
 ## Project completion
 
-project successfully completed by VISHAL JAGANNATH KHOT
+Project successfully completed by VISHAL JAGANNATH KHOT
 
 
